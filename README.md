@@ -5,7 +5,7 @@ Welcome to the WeatherApp repository, your go-to source for enhancing and refini
 <p align="center">
 <a href="https://t.me/decoderscommunity">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="50px" />
-</a>&nbsp; &nbsp; &nbsp;
+</a>
 <a href="https://www.linkedin.com/company/decoderscommunity">
 
 </a>&nbsp; &nbsp; &nbsp;
