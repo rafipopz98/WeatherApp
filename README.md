@@ -30,7 +30,7 @@ Do star the Decoder's repository ✨✨✨
 
 A simple Weather application made using HTML, CSS. 
 
-Made with the intention of guiding beginner contributors towards open source, this respositoy is going to be maintained by: [Madhav Dwivedi ](https://github.com/hubblemd) and Akshaya Pratap Singh.
+Made with the intention of guiding beginner contributors towards open source, this respositoy is going to be maintained by: [Madhav Dwivedi ](https://github.com/hubblemd) and [Akshaya Pratap Singh ](https://github.com/akshaya-cp).
 
 ## How to Contribute?
 
