@@ -7,7 +7,7 @@ Welcome to the WeatherApp repository, your go-to source for enhancing and refini
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="50px" />
 </a>&nbsp; &nbsp; &nbsp;
 <a href="https://www.linkedin.com/company/decoderscommunity">
-  <img src="https://fontawesome.com/icons/linkedin-in?f=brands&s=solid" height="50px" />
+  <i class="fab fa-linkedin-in"></i>
 </a>&nbsp; &nbsp; &nbsp;
 <a href="https://instagram.com/decoderscommunity">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/CIS-A2K_Instagram_Icon_%28Pink%29.svg/640px-CIS-A2K_Instagram_Icon_%28Pink%29.svg.png" height="50px" />
