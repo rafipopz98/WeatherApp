@@ -7,7 +7,7 @@ Welcome to the WeatherApp repository, your go-to source for enhancing and refini
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="50px" />
 </a>&nbsp; &nbsp; &nbsp;
 <a href="https://www.linkedin.com/company/decoderscommunity">
-  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="50px" />
+  <img src="https://fontawesome.com/icons/linkedin-in?f=brands&s=solid" height="50px" />
 </a>&nbsp; &nbsp; &nbsp;
 <a href="https://instagram.com/decoderscommunity">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/CIS-A2K_Instagram_Icon_%28Pink%29.svg/640px-CIS-A2K_Instagram_Icon_%28Pink%29.svg.png" height="50px" />
@@ -28,9 +28,9 @@ Do star the Decoder's repository ✨✨✨
 
 # Calculator Application
 
-A simple Calculator application made using HTML, CSS, JavaScript. And it is hosted at [bit.ly/DecodersCalculator](https://bit.ly/DecodersCalculator)
+A simple Weather application made using HTML, CSS. 
 
-Made with the intention of guiding beginner contributors towards open source, this respositoy is going to be maintained by: [Harshit Sharma](https://github.com/harshit-sharma-gits) and [Barmendu Chakraborty](https://github.com/BarmenduC)
+Made with the intention of guiding beginner contributors towards open source, this respositoy is going to be maintained by: [Madhav Dwivedi ](https://github.com/hubblemd) and Akshaya Pratap Singh.
 
 ## How to Contribute?
 
